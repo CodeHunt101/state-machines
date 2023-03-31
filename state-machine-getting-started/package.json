@@ -1,0 +1,7 @@
+{
+  "name": "xstate-tutorials",
+  "version": "1.0.0",
+  "dependencies": {
+    "xstate": "^4.37.1"
+  }
+}
