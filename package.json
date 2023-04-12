@@ -1,0 +1,25 @@
+{
+  "name": "xstate-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "machine.js",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "prettier": "^2.8.7",
+    "xstate": "^4.37.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeHunt101/state-machines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeHunt101/state-machines/issues"
+  },
+  "homepage": "https://github.com/CodeHunt101/state-machines#readme"
+}
