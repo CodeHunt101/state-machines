@@ -7,7 +7,7 @@ type SelectEvent = {
 
 type MachineContext = {
     subreddit?: string | null;
-    posts?: string | null
+    posts?: {title: string}[] | null
 }
 
 const invokeFetchSubreddit = async ({subreddit}: any) => {
